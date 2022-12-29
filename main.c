@@ -42,7 +42,6 @@ char convert_name(int player)
 
 void print_table(char map[])
 {
-    printf("table : \n");
     printf("     |     |     \n");
     for (int i = 2; i >= 0; i--)
     {
